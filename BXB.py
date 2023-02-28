@@ -102,7 +102,7 @@ def hasil(OK,cp):
 	    input("\x1b[1;97mPress enter to back ALAMIN Menu ")
 	    Sad_Boy()
 
-def Dad_Boy():
+def Sad_Boy():
 
 
 
